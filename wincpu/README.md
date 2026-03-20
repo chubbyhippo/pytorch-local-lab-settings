@@ -1,5 +1,6 @@
-# To run the notebook:
-
+```shell
+pip install -r requirements.txt
+```
 ```shell
 jupyter notebook
 ```
